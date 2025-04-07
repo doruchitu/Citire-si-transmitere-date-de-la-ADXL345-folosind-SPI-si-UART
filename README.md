@@ -1,0 +1,1 @@
+# Citire-si-transmitere-date-de-la-ADXL345-folosind-SPI-si-UART
